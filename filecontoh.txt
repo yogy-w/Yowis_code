@@ -1,1 +1,2 @@
-file contoh untuk awal koding.
+file contoh untuk awal koding
+belajar koding laravel
